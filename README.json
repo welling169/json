@@ -1,0 +1,22 @@
+{
+  "arrayOfCells": [
+    {
+      "name": "tiger",
+      "animalClass": "bird",
+      "description": "it's fly",
+      "imageName": "1"
+    },
+    {
+      "name": "lion",
+      "animalClass": "killer",
+      "description": "it's run",
+      "imageName": "2"
+    },
+    {
+      "name": "daun",
+      "animalClass": "chmo",
+      "description": "it's die",
+      "imageName": "3"
+    }
+  ]
+}
